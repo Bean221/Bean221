@@ -7,7 +7,9 @@
 
 - 👯 Trang Tớ Làm Cho NY [ForLinh](https://bean221.github.io/8-3forLinh)
 
-- 📫 Cách liên hệ với tôi **hoctot221@gmail.com** **0905961293** 
+- 📫 Cách liên hệ với tôi **hoctot221@gmail.com**
+  
+- 📫 Cách liên hệ với tôi **0905961293**
 
 <h3 align="left">Kết nối với tôi:</h3>
 <p align="left">
