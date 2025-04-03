@@ -1,11 +1,11 @@
-<h1 align="center">Xin chào 👋, tôi là Lê Minh Tuấn</h1>
-<h3 align="center">Một lập trình viên frontend đầy nhiệt huyết đến từ Ấn Độ</h3>
+<h1 align="center">Lê Minh Tuấn</h1>
+<h3 align="center">Tech - Study - Work - Football </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bean221&label=Profile%20views&color=0e75b6&style=flat" alt="bean221" /> </p>
 
-- 🔭 Hiện tại tôi đang làm việc trên [INFOR Cá NHân](https://bean221.github.io/BeanInfor/)
+- 🔭 Trang Cá Nhân Của Tớ [INFOR Cá NHân](https://bean221.github.io/BeanInfor/)
 
-- 👯 Tôi đang tìm kiếm cộng tác viên trên [ForLinh](https://bean221.github.io/8-3forLinh)
+- 👯 Trang Tớ Làm Cho NY [ForLinh](https://bean221.github.io/8-3forLinh)
 
 - 📫 Cách liên hệ với tôi **hoctot221@gmail.com**
 
