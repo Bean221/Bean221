@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bean221&label=Profile%20views&color=0e75b6&style=flat" alt="bean221" /> </p>
 
-- 🔭 Trang Cá Nhân Của Tớ [Cá NHân](https://bean221.github.io/BeanInfor/)
+- 🔭 Trang Cá Nhân Của Tớ [Cá Nhân](https://bean221.github.io/BeanInfor/)
 
 - 👯 Trang Tớ Làm Cho NY [ForLinh](https://bean221.github.io/8-3forLinh)
 
-- 📫 Cách liên hệ với tôi **hoctot221@gmail.com**
+- 📫 Email của mình **hoctot221@gmail.com**
   
-- 📫 Cách liên hệ với tôi **0905961293**
+- 📫 Số Điện Thoại của mình **0905961293**
 
 <h3 align="left">Kết nối với tôi:</h3>
 <p align="left">
