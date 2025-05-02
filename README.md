@@ -5,8 +5,6 @@
 
 - 🔭 Trang Cá Nhân Của Tớ [Cá Nhân](https://bean221.github.io/BeanInfor/)
 
-- 👯 Trang Tớ Làm Cho NY [ForLinh](https://bean221.github.io/8-3forLinh)
-
 - 📫 Email Của Tớ **hoctot221@gmail.com**
   
 - 📫 Số Điện Thoại Của Tớ **0905961293**
