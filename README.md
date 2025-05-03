@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bean221&label=Profile%20views&color=0e75b6&style=flat" alt="bean221" /> </p>
 
-- 🔭 Trang Cá Nhân Của Tớ [Cá Nhân](https://bean221.github.io/BeanInfor/)
+☛ Profile [Cá Nhân](https://bean221.github.io/BeanInfor/)
 
-- 📫 Email Của Tớ **hoctot221@gmail.com**
+☛ Email **hoctot221@gmail.com**
   
-- 📫 Số Điện Thoại Của Tớ **0905961293**
+☛ Zalo/Sdt **0905961293**
 
-<h3 align="left">Kết nối với tôi:</h3>
+<h3 align="left">![image](https://github.com/user-attachments/assets/41711d44-a85b-4b99-b71e-3b2d48cf7b01) Liên hệ mình nhé</h3>
 <p align="left">
 <a href="https://fb.com/mtuan221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fb.com/mtuan221" height="30" width="40" /></a>
 <a href="https://instagram.com/mtuan221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fb.com/mtuan221" height="30" width="40" /></a>
